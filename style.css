@@ -1,0 +1,24 @@
+body {
+    background-image:url("https://w7.pngwing.com/pngs/122/824/png-transparent-joint-entrance-examination-main-jee-main-mathematics-quiz-mental-calculation-test-blue-creative-thinking-game-text-digital.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+    
+    #logo1{
+        text-align: center;
+        padding-left: 10px;
+        padding-top: -10px;
+        padding-bottom: -10px;
+        padding-right: -10px;
+    }
+     h1{
+        color: whitesmoke;
+        height: 8%;
+        width: 20%;
+        background-color: orangered;
+        border-radius: 10px;
+        font-family: 'Roboto', sans-serif;
+    }
+    #my_div{
+      padding-bottom:200px;
+    }
